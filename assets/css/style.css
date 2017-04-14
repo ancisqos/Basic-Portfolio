@@ -23,19 +23,18 @@ li{
 #contact-info{
 	float: right;
   list-style: none;
-  margin: 0
+  margin: 0;
   padding: 0;
   height: 100px;
+  color: white;
 
 }
 
 h1{
-  color: white;
   background: #ffffff;
   color: #4aaaa5;
   padding: 20px;
   height: 100px;
-  
 }
 
 h2{
@@ -57,7 +56,7 @@ h4{
   text-align: left;
   padding: 20px;
   margin-bottom: 20px;
-  
+
 }
 
 p{
