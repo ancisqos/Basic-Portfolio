@@ -30,23 +30,20 @@ h2{
 h3{
   color: #4aaaa5;
   border-bottom: 20px;
+  background: #ffffff;
 }
 
 h4{
-  color: #ffffff;
   font-size: 22px;
-}
-
-p{
-  font-size: 16px;
-}
-
-#francisArcede{
   background: #4aaaa5;
   color: #ffffff;
   padding-top: 50px;
   width: 270px;
-  
+  text-align: center;
+}
+
+p{
+  font-size: 16px;
 }
 
 #aboutMe{
