@@ -1,8 +1,39 @@
+body{
+	background-image: url(..//images/Seamless.png);
+}
+
+#contact-info{
+	float: right;
+}
+
+h1{
+  color: white;
+  background: #ffffff;
+  color: #4aaaa5;
+  padding-bottom: 200px;
+}
+
 h3{
-  color: cadetblue;
+  color: #4aaaa5;
   border-bottom: 20px;
+}
+
+#francisArcede{
+  background: #4aaaa5;
+  color: ;
+}
+
+#aboutMe{
+  background: #ffffff;
+  border-color: #dddddd;
+  padding top: 50px;
+  width: 650px;
+  font-family: 'Arial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
 }
 
 #portfolioImage{
 	float:left;
+	margin right: 20px;
 }
+
+
