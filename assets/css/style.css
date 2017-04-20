@@ -1,5 +1,5 @@
 body{
-	background-image: url(..//images/Seamless.png);
+	background-image: url(../images/Seamless.png);
   
   font-family: Georgia, Times, serif;
 }
@@ -32,7 +32,6 @@ li{
   height: 100px;
   color: white;
   font-size: 18px;
-
 
 }
 
@@ -140,4 +139,39 @@ div.desc {
     text-align: center;
     background: #4aaaa5;
     color: #ffffff;
+  }
 
+/* MEDIA QUERY STARTS HERE YAY :) */
+@media screen and (max-width: 750px) {
+    .nav-links{
+      width: 100%;
+    }
+
+  #aboutMe{
+    width: 75%;
+    background-color: grey;
+    color: white;
+    margin-right: 25%;
+  }
+
+  #Portfolio{
+    width: 75%;
+    height: 610px;
+    background-color: cyan;
+  }
+
+  h3{
+    background-color: grey;
+    color: white;
+  }
+}
+
+@media only screen and (orientation: portrait) {
+
+  h3{
+    color: green;
+  }
+
+  h4{
+    color: red;
+  }
